@@ -19,3 +19,7 @@ Mostrar como:
 - Separar responsabilidades entre `Service` e `Repository`
 
 ## 🧪 Exemplos Implementados
+
+- 💰 *Transferência de saldo entre contas*
+- 🔄 *Rollback automático em erro*
+- 🛡️ *Validação antes de persistência*
