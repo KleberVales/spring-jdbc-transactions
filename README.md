@@ -8,4 +8,4 @@ Este projeto demonstra como utilizar **transações com JDBC puro** utilizando *
 - **Spring Boot**
 - **Spring JDBC**
 - **H2 Database (memória)**
-- **Maven**
+- **Gradle**
