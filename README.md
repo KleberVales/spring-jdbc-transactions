@@ -17,3 +17,5 @@ Mostrar como:
 - Utilizar `@Transactional` para controle declarativo
 - Gerenciar rollback automático em exceções
 - Separar responsabilidades entre `Service` e `Repository`
+
+## 🧪 Exemplos Implementados
