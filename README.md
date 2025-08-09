@@ -23,3 +23,5 @@ Mostrar como:
 - 💰 *Transferência de saldo entre contas*
 - 🔄 *Rollback automático em erro*
 - 🛡️ *Validação antes de persistência*
+
+## 📂 Estrutura de pastas
