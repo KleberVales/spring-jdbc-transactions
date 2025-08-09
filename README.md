@@ -44,3 +44,9 @@ spring-jdbc-transactions/
  └── src/test/java/com/example/springjdbctransactions/
      └── ProductServiceTest.java
 ```
+
+## Fluxograma 
+
+<img width="960" height="37" alt="spring_jdbc_transactions_flow" src="https://github.com/user-attachments/assets/9da2080f-2fcd-4b07-8da2-4f393a488f96" />
+
+
