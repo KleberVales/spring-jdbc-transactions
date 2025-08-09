@@ -9,3 +9,5 @@ Este projeto demonstra como utilizar **transações com JDBC puro** utilizando *
 - **Spring JDBC**
 - **H2 Database (memória)**
 - **Gradle**
+
+## 📦 Objetivo do Projeto
