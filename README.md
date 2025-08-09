@@ -25,3 +25,22 @@ Mostrar como:
 - 🛡️ *Validação antes de persistência*
 
 ## 📂 Estrutura de pastas
+
+```
+spring-jdbc-transactions/
+ ├── src/main/java/com/example/springjdbctransactions/
+ │   ├── SpringJdbcTransactionsApplication.java
+ │   ├── model/
+ │   │   └── Product.java
+ │   ├── repository/
+ │   │   └── ProductRepository.java
+ │   ├── service/
+ │   │   └── ProductService.java
+ │   └── config/
+ │       └── DataSourceConfig.java
+ ├── src/main/resources/
+ │   ├── application.yml
+ │   └── schema.sql
+ └── src/test/java/com/example/springjdbctransactions/
+     └── ProductServiceTest.java
+```
