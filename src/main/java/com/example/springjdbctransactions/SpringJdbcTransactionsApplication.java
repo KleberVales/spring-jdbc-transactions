@@ -39,7 +39,7 @@ public class SpringJdbcTransactionsApplication implements CommandLineRunner {
 }
 
 /*
-	O programa deve mostrar uma listagem que esta na tabela produto.
-	Depois e programa deve tentar fazer uma operaçao de rollback que deve dar errado por causa que o preço é invalido
-	Depois deve mostrar a lista de produtos finais
+	1 - deve mostrar uma listagem que esta na tabela produto.
+	2 - O programa deve tentar fazer uma operaçao de rollback que deve dar errado por causa que o preço é invalido
+	3 - Lista final
  */
